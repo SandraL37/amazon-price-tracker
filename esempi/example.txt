@@ -5,7 +5,7 @@
     },
 
     "ASUS ROG STRIX B550-F GAMING (scheda madre)": { //ASUS ROG STRIX è il nome del prodotto che apparirà sullo schermo
-        "LANG": ["it", "es", "de", "fr"], //LANG è la lista di amazon su cui cercare it sarebbe l'esensione di amazon.it, co.uk sarebbe l'estensione di amazon.co.uk
+        "LANG": ["it", "es", "de", "fr"], //LANG è la lista di amazon su cui cercare; it sarebbe l'esensione di amazon.it, co.uk sarebbe l'estensione di amazon.co.uk
         "ID": "B089HFNQ1K" //https://www.amazon.it/dp/B089HFNQ1K    l'id è la sigla dopo il /dp/
     }
 }
