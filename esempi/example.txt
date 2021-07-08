@@ -9,3 +9,5 @@
         "ID": "B089HFNQ1K" //https://www.amazon.it/dp/B089HFNQ1K    l'id è la sigla dopo il /dp/
     }
 }
+
+//il file si deve chiamare components.json e si deve trovare nella stessa directory di price-tracker.py
